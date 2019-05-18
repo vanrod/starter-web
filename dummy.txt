@@ -1,1 +1,3 @@
-add some dummy text to test with
+changed first line of text
+
+added this.
